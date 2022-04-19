@@ -1,5 +1,8 @@
 # hexo-github-calendar
 
+
+### 版本1.16
+### 修改：原先不能索引gitee的数据来源
 ### 教程：
 链接：https://zfe.space/post/hexo-githubcalendar.html
 
