@@ -1,0 +1,64 @@
+{
+  "__npminstall_done": "Thu Mar 11 2021 19:29:46 GMT+0800 (中国标准时间)",
+  "_args": [
+    [
+      "hexo-githubcalendar@1.2.3",
+      "E:\\E\\Developing\\web\\blog"
+    ]
+  ],
+  "_from": "hexo-githubcalendar@1.2.3",
+  "_id": "hexo-githubcalendar@1.2.3",
+  "_inBundle": false,
+  "_integrity": "sha512-xMfp2Z11F57s0/q7N9x+S2ui5dkrOiz5I3+TKPL+2IquWKj11wpaVZsPDgMxPAU8B6AYm/78S5e2APiHADPYSg==",
+  "_location": "/hexo-githubcalendar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "hexo-githubcalendar@1.2.3",
+    "name": "hexo-githubcalendar",
+    "escapedName": "hexo-githubcalendar",
+    "rawSpec": "1.2.3",
+    "saveSpec": null,
+    "fetchSpec": "1.2.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-githubcalendar/-/hexo-githubcalendar-1.2.3.tgz",
+  "_spec": "1.2.3",
+  "_where": "E:\\E\\Developing\\web\\blog",
+  "author": {
+    "name": "Ice Kano"
+  },
+  "bugs": {
+    "url": "https://github.com/Zfour/hexo-github-calendar/issues"
+  },
+  "contributors": [
+    {
+      "name": "Lete乐特"
+    }
+  ],
+  "description": "A Plus_in for hexo to show github calendar.",
+  "devDependencies": {
+    "hexo": "^3.2.0"
+  },
+  "homepage": "https://github.com/Zfour/hexo-github-calendar#readme",
+  "keywords": [
+    "hexo",
+    "github",
+    "gitee",
+    "plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "hexo-githubcalendar",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Zfour/hexo-github-calendar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.3"
+}
